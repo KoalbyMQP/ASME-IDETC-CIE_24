@@ -7,7 +7,7 @@
     2. Git: https://git-scm.com/downloads/
     3. Python: https://www.python.org/downloads/
 2. Clone this GitHub repository
-    1. https://github.com/KoalbyMQP/RaspberryPi-Code_23-24
+    1. =https://github.com/KoalbyMQP/ASME-IDETC-CIE_24/
 3. Install all Python packages in requirements.txt found in the root folder of this repository
     1. pip install -r requirements.txt
 4. Open CoppeliaSim
