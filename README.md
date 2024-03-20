@@ -13,10 +13,10 @@
 4. Open CoppeliaSim
     1. For Ubuntu and macOS, you may have to open CoppeliaSim through terminal if not working
 5. Open wanted scene in CoppeliaSim
-    1. Our scenes are located at RaspberryPi-Code_23-24/backend/KoalbyHumanoid/Simulation Files
+    1. Our scenes are located at /backend/KoalbyHumanoid/Simulation Files
     2. In CoppeliaSim: File → Open scene... → (select the scene file) → Open
 6. Run the Python script corresponding to what you want to happen in the scene
-    1. Our demo scripts are located at RaspberryPi-Code_23-24/backend/Demo Scripts
+    1. Our demo scripts are located at /backend/Demo Scripts
     2. Make sure to run any scripts locally and from the root folder of this repository
 
 ### Programs
